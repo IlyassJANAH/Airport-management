@@ -28,7 +28,4 @@ php bin/console doctrine:migrations:migate
 3. The database schema will be created automaticaly when you run the project.
 ## Running the project
 To run the project: 
-```
-php bin/console server:run
-```
-On the browser: http://127.0.0.1:8000
+``` php bin/console server:run ``` On the browser: http://127.0.0.1:8000
