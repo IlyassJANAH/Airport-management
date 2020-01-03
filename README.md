@@ -35,12 +35,6 @@ To run the project:
 ### Register Page
 ![register](https://user-images.githubusercontent.com/41878409/71700805-46a1ba00-2dc6-11ea-856c-dd8721048d4a.PNG)
 
-### Flights List (For Admin role)
-![flightList](https://user-images.githubusercontent.com/41878409/71700809-473a5080-2dc6-11ea-8d57-ec5f648253a2.PNG)
-
-### New Flight
-![newFlight](https://user-images.githubusercontent.com/41878409/71700804-46a1ba00-2dc6-11ea-879f-a4594703000e.PNG)
-
 ### Airplanes list(for Admin role)
 ![AirplanList](https://user-images.githubusercontent.com/41878409/71700806-46a1ba00-2dc6-11ea-88a6-4a36e6b645ed.PNG)
 ## Author
