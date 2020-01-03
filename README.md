@@ -29,3 +29,5 @@ php bin/console doctrine:migrations:migate
 ## Running the project
 To run the project: 
 ``` php bin/console server:run ``` On the browser: http://127.0.0.1:8000
+## Author
+Ilyass JANAH [LinkedIn](https://www.linkedin.com/in/janah-ilyass-1354a7a0/)
